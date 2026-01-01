@@ -1,6 +1,8 @@
-{
-  "from": "2026-01-01",
-  "until": "2026-04-01",
-  "message": "Fairmark will not be mantained for the next months, so no updates will happen. Fairmark Intelligence features are half-baked and won't be released anytime soon. You can dismiss this message with the top right button.",
-  "id": 1
-}
+[
+  {
+    "from": "2026-01-01",
+    "until": "2026-04-01",
+    "message": "Fairmark will not be mantained for the next months, so no updates will happen. Fairmark Intelligence features are half-baked and won't be released anytime soon. You can dismiss this message with the top right button.",
+    "id": 1
+  }
+]
